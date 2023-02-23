@@ -7,8 +7,6 @@
 
 
 
-<br>
-<br>
 ![](https://github.com/PratikPaudel/adventure-game/blob/main/ezgif.com-video-to-gif.gif)
 
 
