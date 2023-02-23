@@ -1,12 +1,14 @@
 # adventure-game
-A text based adventure game! 
+#A text based GUI adventure game! Using Javaswings
 
-Walking through the game! 
-Video: 
-https://user-images.githubusercontent.com/56014021/220845468-488c3b55-7b69-40b5-a6d0-379dc7ed04b1.mp4
+#Walking through the game! 
+#Video: 
+<video width="320" height="240" controls>
+<source src="https://github.com/PratikPaudel/adventure-game/blob/main/2023-02-22%2023-12-36.mp4" type="video/mp4">
 
-Gif Version
-https://i.imgur.com/npFaI8k.mp4
+#Gif_Version:
+![](https://github.com/PratikPaudel/adventure-game/blob/main/ezgif.com-video-to-gif.gif)
+
 
 
 
